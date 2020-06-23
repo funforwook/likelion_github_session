@@ -24,4 +24,4 @@ else:
 print("Game Over")
 
 
-# git  변경 체크용
+# gig hub 내에서 수정이 가능할까?
